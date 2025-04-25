@@ -6,7 +6,6 @@ git add .
 ```
 ```
 git commit -m "Initial commit - Earth Twin project with TWINTECH logo"
-
 ```
 
 ```
